@@ -8,7 +8,7 @@
 2. Set up a virtual environment and activate it:
     ```bash
     python -m venv venv
-    venv\Script\activate
+    venv\Scripts\activate
     ```
 
 3. Install Flask:
@@ -32,7 +32,7 @@
 
 ### Step 2: Setting up ReactJS
 
-1. Outside the `hello-world-project` directory, generate a new React app:
+1. Outside the `healthcare` directory, generate a new React app:
     ```bash
     cd..
     npx create-react-app frontend
@@ -62,7 +62,7 @@
 
 4. Build your React app:
     ```bash
-    npm start
+    npm run build
     ```
 
 ### Step 3: Running the Application
