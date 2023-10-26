@@ -67,7 +67,7 @@
 
 ### Step 3: Running the Application
 
-1. Return to the `hello-world-project` directory:
+1. Return to the `healthcare` directory:
     ```bash
     cd..
     ```
