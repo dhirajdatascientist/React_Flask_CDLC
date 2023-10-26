@@ -70,6 +70,7 @@
 1. Return to the `healthcare` directory:
     ```bash
     cd..
+    cd healthcare
     ```
 
 2. Initiate the Flask application:
