@@ -55,6 +55,10 @@ PRODUCTS = [
         "description": "Effective pain relief with minimal side effects.",
         "image": "product2.jpg"
     }
+
+@app.route('/api/quotes')
+def get_quotes():
+    return jsonify(PRODUCTS)
     # ... add more products as needed
 ]
 
